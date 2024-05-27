@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Bartek! </h1>
 
-<!--
-**bart-03/bart-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Full Stack Web App (HTML, CSS, JS, ReactJS, Express, Restful APIs )</b>
+  - [SafeRoutes - Maps Web App](##) <b><i></b></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Java</b>
+
+- <b>Python</b>
+  
+
+
+## 🤳 Connect with me:
+[**Linkedin**](https://www.linkedin.com/in/bartek-fraczek-868953259/)
+
+
+
+
+
