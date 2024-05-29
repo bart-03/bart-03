@@ -15,7 +15,7 @@
 
 
 ## 🤳 Connect with me:
-[**Linkedin**](https://www.linkedin.com/in/bartek-fraczek-868953259/)
+[**Linkedin**](https://www.linkedin.com/in/bartek-fraczek/)
 
 
 
