@@ -8,10 +8,7 @@
 
 - <b>Java</b>
   - [Raspberry PI Robot](https://github.com/bart-03/SwiftBot) <b><i></b></i>
-
-
-- <b>Python</b>
-  - [Ecommerce Price Tracker](https://github.com/bart-03/EcommercePriceTracker) <b><i></b></i>
+  - [Simulated Anenaling Algorithm to solve Graph Colouring Problem](https://github.com/bart-03/EcommercePriceTracker) <b><i></b></i>
   
 
 
