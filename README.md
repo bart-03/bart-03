@@ -12,7 +12,7 @@
 
 - <b>Python</b>
   - [Ecommerce Price Tracker](https://github.com/bart-03/EcommercePriceTracker) <b><i></b></i>
-  - [ML/AI Disease Detection App](https://github.com/bart-03/FinalYearProject]) <b><i></b></i>
+  - [ML/AI Disease Detection App](https://github.com/bart-03/FinalYearProject) <b><i></b></i>
   
   
 
